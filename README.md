@@ -39,16 +39,16 @@ UnemploymentAnalysiswithPython/
 ├── Unemployment in India.csv
 ├── code.py
 └── README.md
-🧪 How to Run
+# How to Run:
 Clone this repository or download the files.
 
 Ensure the dataset (Unemployment in India.csv) is in the same directory as the script.
-**
-Run the script:**
+
+Run the script:
 python code.py
-**# sample output**
+# sample output
 ![Screenshot 2025-06-16 004400](https://github.com/user-attachments/assets/89280ce9-c5e1-4d1c-ad58-0cef75fbe6b3)
-**# Heatmaps for correlation**
+# Heatmaps for correlation
 ![Screenshot 2025-06-16 022029](https://github.com/user-attachments/assets/aa4023a1-a492-4b46-a6dc-527884f16fba)
 ![Screenshot 2025-06-16 022055](https://github.com/user-attachments/assets/2abde0be-62be-47d4-8612-d02c44165e8f)
 
