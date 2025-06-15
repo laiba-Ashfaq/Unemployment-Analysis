@@ -19,10 +19,9 @@ The dataset used in this project is **Unemployment in India.csv**, which include
 - seaborn
 
 Install required libraries (if not already installed):
-
-```bash
 pip install pandas matplotlib seaborn
-📈 Visualizations
+
+# Visualizations
 The project includes the following visualizations:
 
 Barplot — Average Unemployment Rate by Region
@@ -44,7 +43,7 @@ Clone this repository or download the files.
 
 Ensure the dataset (Unemployment in India.csv) is in the same directory as the script.
 
-Run the script:
+**Run the script:**
 python code.py
 # sample output
 ![Screenshot 2025-06-16 004400](https://github.com/user-attachments/assets/89280ce9-c5e1-4d1c-ad58-0cef75fbe6b3)
